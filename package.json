@@ -1,0 +1,15 @@
+{
+  "name": "strapi-middleware-realtime",
+  "version": "1.0.0",
+  "description": "Realtime Listener capabilities using websockets",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nils Rohr",
+  "license": "ISC",
+  "dependencies": {
+    "mutex-promise": "^0.1.0",
+    "socket.io": "^2.3.0"
+  }
+}
